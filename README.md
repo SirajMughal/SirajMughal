@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siraj Mughal
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently studying computer science at NJIT
-- 💞️ I’m looking to get a summer 2023 internship in software engineering
 - 📫 How to reach me: sirajmughal@msn.com || 973-650-0511
